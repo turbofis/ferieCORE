@@ -1,0 +1,11 @@
+C:\Users\s177748\source\repos\kollektapi\kollektapi\bin\Debug\netcoreapp2.0\kollektapi.deps.json
+C:\Users\s177748\source\repos\kollektapi\kollektapi\bin\Debug\netcoreapp2.0\kollektapi.runtimeconfig.json
+C:\Users\s177748\source\repos\kollektapi\kollektapi\bin\Debug\netcoreapp2.0\kollektapi.runtimeconfig.dev.json
+C:\Users\s177748\source\repos\kollektapi\kollektapi\bin\Debug\netcoreapp2.0\kollektapi.dll
+C:\Users\s177748\source\repos\kollektapi\kollektapi\bin\Debug\netcoreapp2.0\kollektapi.pdb
+C:\Users\s177748\source\repos\kollektapi\kollektapi\obj\Debug\netcoreapp2.0\kollektapi.csprojResolveAssemblyReference.cache
+C:\Users\s177748\source\repos\kollektapi\kollektapi\obj\Debug\netcoreapp2.0\kollektapi.csproj.CoreCompileInputs.cache
+C:\Users\s177748\source\repos\kollektapi\kollektapi\obj\Debug\netcoreapp2.0\kollektapi.AssemblyInfoInputs.cache
+C:\Users\s177748\source\repos\kollektapi\kollektapi\obj\Debug\netcoreapp2.0\kollektapi.AssemblyInfo.cs
+C:\Users\s177748\source\repos\kollektapi\kollektapi\obj\Debug\netcoreapp2.0\kollektapi.dll
+C:\Users\s177748\source\repos\kollektapi\kollektapi\obj\Debug\netcoreapp2.0\kollektapi.pdb
